@@ -1,5 +1,5 @@
-#include "feed/library.hpp"
+#include "library/library.hpp"
 
-int sum(int a, int b) {
+auto sum(int a, int b) -> int {
     return a + b;
 }

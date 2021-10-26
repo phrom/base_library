@@ -1,0 +1,1 @@
+Checks: 'boost-*,bugprone-*,cert-*,clang-analyzer-*,cppcoreguidelines-*,google-*,-google-objc-*,hicpp-*,misc-*,modernize-*,performance-*,readability-*'
